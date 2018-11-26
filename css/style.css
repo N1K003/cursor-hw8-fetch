@@ -1,0 +1,15 @@
+form {
+    margin: 15px;
+    padding-left: 20px;
+}
+
+.users {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.users .user {
+    border: black 2px dashed;
+    margin: 20px;
+    padding: 20px;
+}
